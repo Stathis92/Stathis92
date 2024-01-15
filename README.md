@@ -1,7 +1,5 @@
 
 Welcome to my small profile!
-- 🔭 I’m currently working on The Odin Project
-- 🌱 I’m currently learning HTML/CSS + Javascript
 - 🎮 Unity project - [DopeAmin](https://github.com/Stathis92/DopeAmin)
 
   <div id="header" align="center">
